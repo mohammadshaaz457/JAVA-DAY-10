@@ -1,4 +1,4 @@
-//without using the objects 
+//without using the objects we can use the static methods
 import java.util.*;
 class shaaz1
 {
